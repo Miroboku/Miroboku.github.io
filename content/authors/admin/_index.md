@@ -97,26 +97,20 @@ skills:
         icon: devicon/jira
       - name: TestRail
         description: ""
-        icon: assets/media/icons/images.png
+        icon: images.png
       - name: Postman
         description: ""
         icon: devicon/postman
-  - name: Hobbies
+  - name: Soft Skills
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Teamwork
         description: ""
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
-        percent: 80
-        icon: camera
+        icon: team
+      - name: Communication skills
+        icon: communication
+      - name: Attention to detail
 
 # Languages (top-level) - used by the site's Languages block
 languages:
