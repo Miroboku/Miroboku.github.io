@@ -2,8 +2,8 @@
 # Display name
 title: VLADYSLAV
 
-# Name pronunciation (optional)
-name_pronunciation:
+# email (optional)
+email: vladgushpet@gmail.com
 
 # Full name (for SEO)
 first_name: Vladyslav
