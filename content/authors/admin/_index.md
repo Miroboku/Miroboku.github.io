@@ -97,7 +97,7 @@ skills:
         icon: devicon/jira
       - name: TestRail
         description: ""
-        icon: devicon/test rail
+        icon: assets/media/icons/images.png
       - name: Postman
         description: ""
         icon: devicon/postman
