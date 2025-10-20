@@ -117,15 +117,16 @@ skills:
         description: ""
         percent: 80
         icon: camera
+      
+# Languages (top-level) - used by the site's Languages block
+languages:
+  - name: English
+    description: "B1 intermediate"
+    icon: devicon/uk
+  - name: Ukrainian
+    description: "Native"
+    icon: devicon/ukraine
 
-  - name: Languages
-    items:
-      - name: English
-        description: "B1 intermediate"
-        icon: devicon/uk
-      - name: Ukrainian
-        description: "Native"
-        icon: devicon/ukraine
 
 # Awards.
 #   Add/remove as many awards below as you like.
