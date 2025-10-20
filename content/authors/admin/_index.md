@@ -13,7 +13,7 @@ last_name: Hushpet
 superuser: true
 
 # Role/position/tagline
-role: QA Junior Engineer
+role: Junior QA Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
