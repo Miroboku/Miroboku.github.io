@@ -89,18 +89,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Jira
         description: ""
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon:
+      - name: TestRail
         description: ""
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon:
+      - name: Postman
         description: ""
-        percent: 40
-        icon: devicon/pytorch
+        icon: devicon/postman
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -120,11 +117,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    description: B1 Intermediate
+  - name: Ukrainian
+    description: Native
 
 # Awards.
 #   Add/remove as many awards below as you like.
