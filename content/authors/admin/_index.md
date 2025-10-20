@@ -93,18 +93,14 @@ skills:
   - name: Technical Skills
     items:
       - name: Jira
-        description: ""
         icon:
       - name: TestRail
-        description: ""
         icon:
       - name: Postman
-        description: ""
         icon:
   - name: Soft Skills
     items:
       - name: Teamwork
-        description: ""
         icon:
       - name: Communication skills
         icon:
