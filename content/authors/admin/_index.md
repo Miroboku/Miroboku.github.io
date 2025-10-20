@@ -1,9 +1,12 @@
 ---
 # Display name
-title: VLADYSLAV
+title: VLADYSLAV HUSHPET
 
 # email (optional)
 email: vladgushpet@gmail.com
+
+# Visible email to display under the display name (templates may use this)
+display_email: vladgushpet@gmail.com
 
 # Full name (for SEO)
 first_name: Vladyslav
@@ -157,3 +160,5 @@ awards:
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+
+You can contact me at <a href="mailto:vladgushpet@gmail.com">vladgushpet@gmail.com</a>.
