@@ -17,23 +17,16 @@ role: QA Junior Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:
-    url:
+  - name:vladgushpet@gmail.com
+    url:me
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: "vladgushpet@gmail.com"
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/
   - icon: brands/github
     url: https://github.com/Miroboku
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vladyslav-hushpet-6844b2242/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
