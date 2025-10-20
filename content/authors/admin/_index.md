@@ -1,6 +1,6 @@
 ---
 # Display name
-title: VH
+title: VLADYSLAV
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -13,12 +13,12 @@ last_name: Hushpet
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: QA Junior Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Vladyslav
-    url: https://www.example.com/
+  - name:
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
