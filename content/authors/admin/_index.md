@@ -91,10 +91,10 @@ skills:
     items:
       - name: Jira
         description: ""
-        icon:
+        icon: devicon/jira
       - name: TestRail
         description: ""
-        icon:
+        icon: devicon/testrail
       - name: Postman
         description: ""
         icon: devicon/postman
