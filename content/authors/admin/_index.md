@@ -9,13 +9,6 @@ name_pronunciation:Hushpet Vladyslav
 first_name: Vladyslav
 last_name: Hushpet
 
-# Pronouns (optional)
-pronouns: she/her
-
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -24,21 +17,21 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Vladyslav
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'vladgushpet@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Miroboku
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/vladyslav-hushpet-6844b2242/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
