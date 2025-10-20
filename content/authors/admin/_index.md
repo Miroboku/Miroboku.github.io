@@ -97,19 +97,17 @@ skills:
         icon: devicon/jira
       - name: TestRail
         description: ""
-        icon: images.png
+        icon: assets/media/icons/images.png
       - name: Postman
         description: ""
         icon: devicon/postman
   - name: Soft Skills
-    color: "#eeac02"
-    color_border: "#f0bf23"
     items:
       - name: Teamwork
         description: ""
-        icon: team
+        icon:
       - name: Communication skills
-        icon: communication
+        icon:
       - name: Attention to detail
 
 # Languages (top-level) - used by the site's Languages block
