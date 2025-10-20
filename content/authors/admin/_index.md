@@ -115,11 +115,14 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    description: B1 Intermediate
-  - name: Ukrainian
-    description: Native
+  - name: Languages
+    items:
+      - name: English
+        description: "B1 intermediate"
+        icon: devicon/uk
+      - name: Ukrainian
+        description: "Native"
+        icon: devicon/ukraine
 
 # Awards.
 #   Add/remove as many awards below as you like.
