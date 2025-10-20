@@ -132,6 +132,6 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I’m a Junior QA Engineer with a solid understanding of software testing theory, SDLC, and STLC processes. I’m passionate about ensuring product quality and constantly improving my testing skills.
 
 You can contact me at <a href="mailto:vladgushpet@gmail.com">vladgushpet@gmail.com</a>.
