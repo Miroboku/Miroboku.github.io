@@ -94,13 +94,13 @@ skills:
     items:
       - name: Jira
         description: ""
-        icon: devicon/jira
+        icon:
       - name: TestRail
         description: ""
-        icon: assets/media/icons/custom/testrail.svg
+        icon:
       - name: Postman
         description: ""
-        icon: devicon/postman
+        icon:
   - name: Soft Skills
     items:
       - name: Teamwork
