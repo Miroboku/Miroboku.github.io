@@ -2,124 +2,70 @@
 # Display name
 title: VLADYSLAV HUSHPET
 
-# email (optional)
 email: vladgushpet@gmail.com
-
-# Visible email to display under the display name (templates may use this)
 display_email: vladgushpet@gmail.com
 
-# Full name (for SEO)
 first_name: Vladyslav
 last_name: Hushpet
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
 role: Junior QA Engineer
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name:
-    url:
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/github
     url: https://github.com/Miroboku
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vladyslav-hushpet-6844b2242/
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: QA Engineering Course
+    institution: "Мій Варіант — Школа IT професій"
+    date_start: 2024-01-01
+    date_end: 2024-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Completed a practical QA course focused on:
+      - Test documentation: test cases, checklists, bug reports
+      - Test design techniques
+      - SDLC & STLC
+      - Functional, regression, exploratory testing
+      - Basics of API testing (Postman)
+      - Working with Jira & TestRail
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
+  - position: QA Game Tester (Indie Beta Testing)
+    company_name: Various Indie Studios
+    date_start: 2023-01-01
     date_end: ""
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Participated in beta testing of indie games
+      - Conducted functional, gameplay, UI/UX testing
+      - Wrote structured bug reports with steps to reproduce
+      - Reported issues through provided test forms or Discord dev channels
+      - Collaborated with developers to confirm fixes and retest patches
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Jira
-        icon:
       - name: TestRail
-        icon:
       - name: Postman
-        icon:
+      - name: GitHub
+      - name: Manual Testing
   - name: Soft Skills
     items:
       - name: Teamwork
-        icon:
-      - name: Communication skills
-        icon:
+      - name: Communication
       - name: Attention to detail
-
-# Languages (top-level) - used by the site's Languages block
-languages:
-  - name: English
-    description: "B1 intermediate"
-    icon: devicon/uk
-  - name: Ukrainian
-    description: "Native"
-    icon: devicon/ukraine
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+  - name: Languages
+    items:
+      - name: English — B1 Intermediate
+      - name: Ukrainian — Native
 ---
 
-I’m a Junior QA Engineer with a solid understanding of software testing theory, SDLC, and STLC processes. I’m passionate about ensuring product quality and constantly improving my testing skills.
-
-You can contact me at <a href="mailto:vladgushpet@gmail.com">vladgushpet@gmail.com</a>.
+I’m a Junior QA Engineer with a solid understanding of software testing theory, SDLC, and STLC processes.  
+I’m passionate about ensuring product quality and constantly improving my testing skills.  
+I’m highly motivated, ready to grow, and have a strong passion for working in gamedev and testing games.
