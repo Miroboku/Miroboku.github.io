@@ -66,6 +66,4 @@ skills:
       - name: Ukrainian — Native
 ---
 
-I’m a Junior QA Engineer with a solid understanding of software testing theory, SDLC, and STLC processes.  
-I’m passionate about ensuring product quality and constantly improving my testing skills.  
-I’m highly motivated, ready to grow, and have a strong passion for working in gamedev and testing games.
+A Junior QA Engineer with solid knowledge of software testing theory, SDLC, and STLC. Driven by a commitment to product quality and a constant desire to sharpen my testing skills. Highly motivated to grow in the industry, with a genuine passion for gamedev and professional game testing.
